@@ -5,7 +5,7 @@ from PIL import Image
 from io import BytesIO
 
 # Import your engine functions
-from credential_engine import generate_issuer_id, create_signed_vc, anchor_vc
+from credntialmain import generate_issuer_id, create_signed_vc, anchor_vc
 
 st.set_page_config(layout="wide")
 st.title("🇮🇳 Safe India Tourism - Tourist Digital ID Wallet")
