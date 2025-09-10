@@ -12,9 +12,8 @@ json
 qreader 
 numpy
 cv2
-streamlit
 json
-
+qrcode
 
 
 
